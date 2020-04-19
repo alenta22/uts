@@ -1,0 +1,21 @@
+{
+  "name": "uts",
+  "version": "1.0.0",
+  "description": "project uts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/alenta22/uts.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "node",
+    "js"
+  ],
+  "author": "alen",
+  "license": "ISC"
+}
